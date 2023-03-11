@@ -56,3 +56,6 @@ deploy.gradle
 
 #jcenterDeploy.gradle
 #jcenterInstall.gradle
+
+
+ignore.txt
